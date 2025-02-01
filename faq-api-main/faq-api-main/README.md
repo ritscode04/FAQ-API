@@ -159,9 +159,9 @@ python manage.py test
 
 ## 🔗 Author & Contact
 Developed by Mohit Anand  
-📧 Email: `anand2003mohit@gmail.com`  
-🔗 LinkedIn: "https://www.linkedin.com/in/mohit-anand-a4b07033a/"
-🔗 GitHub: "https://github.com/MohitAnand01"
+📧 Email: `riteshpanday1999@gmail.com`  
+🔗 LinkedIn: "https://www.linkedin.com/in/ritesh-pandey04/"
+🔗 GitHub: "https://github.com/ritscode04"
 
 ---
 
