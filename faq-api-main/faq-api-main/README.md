@@ -158,7 +158,7 @@ python manage.py test
 ---
 
 ## 🔗 Author & Contact
-Developed by Mohit Anand  
+Developed by Ritesh Kumar Pandey
 📧 Email: `riteshpanday1999@gmail.com`  
 🔗 LinkedIn: "https://www.linkedin.com/in/ritesh-pandey04/"
 🔗 GitHub: "https://github.com/ritscode04"
